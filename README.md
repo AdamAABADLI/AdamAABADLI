@@ -209,7 +209,6 @@ Nesterov acceleration benchmarks and a **dimension-aware learning-rate scaling l
 
 -->
 
----
 
 <div align="center">
 
