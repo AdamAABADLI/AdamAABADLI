@@ -20,21 +20,18 @@
 
 ```python
 class AdamAabadli(QuantResearcher):
-    """Applied mathematics & computer science, focused on quantitative research,
-    systematic trading and machine learning for financial markets."""
+    """Quant research, systematic trading & ML for financial markets."""
 
-    education = {
-        "ENSAE Paris (IP Paris)":  "Advanced Master in Finance & Risk Management",  # 2026 –
-        "Université Paris Cité":   "Dual MSc Applied Mathematics & Computer Science — Data Science",
-        "Sorbonne Paris Nord":     "Dual BSc Mathematics & Computer Science",
-    }
-    experience = {
-        "Palatine Asset Management": [
-            "Assistant Portfolio Manager — systematic US equity fund, GSM mandates",
-            "Quant Analyst / Data Scientist — European single-stock return forecasting",
-        ],
-    }
-    interests = ["HFT & market microstructure", "derivatives pricing & XVA", "alpha research"]
+    education = [
+        "MS Finance & Risk Management — ENSAE Paris (2026 –)",
+        "Dual MSc Applied Maths & CS (Data Science) — Paris Cité",
+        "Dual BSc Mathematics & CS — Sorbonne Paris Nord",
+    ]
+    experience = [
+        "Assistant Portfolio Manager — Palatine AM",
+        "Quant Analyst / Data Scientist — Palatine AM",
+    ]
+    interests = ["HFT & microstructure", "derivatives & XVA", "alpha research"]
     languages = {"English": "C1", "French": "native", "Finnish": "beginner"}
 ```
 
@@ -196,6 +193,7 @@ Nesterov acceleration benchmarks and a **dimension-aware learning-rate scaling l
 
 ---
 
+<!-- GitHub Analytics: re-enable once several projects are published
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -208,6 +206,8 @@ Nesterov acceleration benchmarks and a **dimension-aware learning-rate scaling l
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamAABADLI&theme=tokyo-night&hide_border=true&color=00D4AA&line=00D4AA&point=ffffff&area=true" width="100%"/>
 
 </div>
+
+-->
 
 ---
 
